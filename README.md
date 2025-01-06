@@ -18,3 +18,5 @@ The dashboard also breaks down sales by pizza category and size, highlighting th
 This information is presented through a combination of charts, tables, and text descriptions, allowing users to easily identify key trends and insights.
 By integrating data from various sources and offering interactive filtering options, the dashboard enables pizza businesses to track performance, 
 understand customer preferences, and make data-driven decisions to improve operations and profitability.
+
+OUTPUT : ![Screenshot 2025-01-06 125333](https://github.com/user-attachments/assets/cd0db08d-60c9-43ab-9579-f189276b30a0)
